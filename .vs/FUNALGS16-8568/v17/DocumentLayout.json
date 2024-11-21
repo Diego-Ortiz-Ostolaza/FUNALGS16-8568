@@ -33,6 +33,10 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "mascotas.cs",
@@ -46,10 +50,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "boleta.cs",
@@ -59,8 +59,7 @@
               "RelativeToolTip": "veterinaria\\boleta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:23:08.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T15:23:08.718Z"
             },
             {
               "$type": "Document",
@@ -95,7 +94,7 @@
               "RelativeDocumentMoniker": "veterinaria\\veterinaria.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\diegosem15\\grupal15\\FUNALGS16-8568\\veterinaria\\veterinaria.cs",
               "RelativeToolTip": "veterinaria\\veterinaria.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAgwB0AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T14:52:01.864Z",
               "EditorCaption": ""
