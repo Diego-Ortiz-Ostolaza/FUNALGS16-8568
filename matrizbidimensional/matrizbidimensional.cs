@@ -2,6 +2,13 @@
 //el ingreso de datos aleatorios, pedir min y max al usuario
 //mostrar la suma de las filas y de las columnas
 //4 x 3
+
+
+
+
+
+
+
 Random r = new Random();
 int fil = 4;
 int col = 3;
