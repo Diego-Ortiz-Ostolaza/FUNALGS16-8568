@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{3E9D72A6-3C2F-4D0E-9281-7B04A3E04EFD}|veterinaria\\veterinaria.csproj|solutionrelative:veterinaria\\veterinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9D72A6-3C2F-4D0E-9281-7B04A3E04EFD}|veterinaria\\veterinaria.csproj|c:\\users\\upn\\desktop\\diegosem15\\grupal15\\funalgs16-8568\\veterinaria\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9D72A6-3C2F-4D0E-9281-7B04A3E04EFD}|veterinaria\\veterinaria.csproj|solutionrelative:veterinaria\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E9D72A6-3C2F-4D0E-9281-7B04A3E04EFD}|veterinaria\\veterinaria.csproj|c:\\users\\upn\\desktop\\diegosem15\\grupal15\\funalgs16-8568\\veterinaria\\mascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E9D72A6-3C2F-4D0E-9281-7B04A3E04EFD}|veterinaria\\veterinaria.csproj|solutionrelative:veterinaria\\mascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E9D72A6-3C2F-4D0E-9281-7B04A3E04EFD}|veterinaria\\veterinaria.csproj|c:\\users\\upn\\desktop\\diegosem15\\grupal15\\funalgs16-8568\\veterinaria\\boleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E9D72A6-3C2F-4D0E-9281-7B04A3E04EFD}|veterinaria\\veterinaria.csproj|solutionrelative:veterinaria\\boleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9D72A6-3C2F-4D0E-9281-7B04A3E04EFD}|veterinaria\\veterinaria.csproj|c:\\users\\upn\\desktop\\diegosem15\\grupal15\\funalgs16-8568\\veterinaria\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9D72A6-3C2F-4D0E-9281-7B04A3E04EFD}|veterinaria\\veterinaria.csproj|solutionrelative:veterinaria\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48B32343-DB9C-42DD-81C9-A5ECA82ADE8E}|matrizbidimensional\\matrizbidimensional.csproj|c:\\users\\upn\\desktop\\diegosem15\\grupal15\\funalgs16-8568\\matrizbidimensional\\matrizbidimensional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "mascotas.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\diegosem15\\grupal15\\FUNALGS16-8568\\veterinaria\\mascotas.cs",
               "RelativeDocumentMoniker": "veterinaria\\mascotas.cs",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "veterinaria\\mascotas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:24:22.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T15:24:22.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "boleta.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\diegosem15\\grupal15\\FUNALGS16-8568\\veterinaria\\boleta.cs",
               "RelativeDocumentMoniker": "veterinaria\\boleta.cs",
@@ -63,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "servicios.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\diegosem15\\grupal15\\FUNALGS16-8568\\veterinaria\\servicios.cs",
               "RelativeDocumentMoniker": "veterinaria\\servicios.cs",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "veterinaria\\servicios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:22:47.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T15:22:47.338Z"
             },
             {
               "$type": "Document",
@@ -94,7 +92,7 @@
               "RelativeDocumentMoniker": "veterinaria\\veterinaria.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\diegosem15\\grupal15\\FUNALGS16-8568\\veterinaria\\veterinaria.cs",
               "RelativeToolTip": "veterinaria\\veterinaria.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T14:52:01.864Z",
               "EditorCaption": ""
